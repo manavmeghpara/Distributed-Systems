@@ -1,0 +1,10 @@
+World size : 4
+Communication strategy : 1
+rank, edges, triangle_count, communication_time
+1, 1383303, 125397, 0.000020
+2, 1383303, 155054, 0.000015
+0, 1383303, 161925, 0.001672
+3, 1383305, 154830, 0.000027
+Number of triangles : 597206
+Number of unique triangles : 199068
+Time taken (in seconds) : 0.04696

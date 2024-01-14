@@ -1,0 +1,15 @@
+Number of workers : 4
+Task decomposition strategy : 3
+Reading graph
+Created graph
+
+Dynamic task mapping
+thread_id, num_vertices, num_edges, triangle_count, time_taken
+0, 0, 1383303, 195912, 0.055349
+1, 0, 1383304, 152652, 0.051228
+2, 0, 1383304, 185300, 0.060390
+3, 0, 1383303, 190192, 0.058523
+Number of triangles : 724056
+Number of unique triangles : 241352
+Partitioning time (in seconds) : 0
+Time taken (in seconds) : 0.065649

@@ -1,0 +1,17 @@
+Using FLOAT
+Number of workers : 4
+Task decomposition strategy : 3
+Iterations : 20
+Granularity : 1
+Reading graph
+Created graph
+
+Dynamic task mapping
+thread_id, num_vertices, num_edges, barrier1_time, barrier2_time, getNextVertex_time, total_time
+0, 9797860, 27666060, 0.013256, 0.006471, 1, 1.660568
+1, 9760160, 27666080, 0.019151, 0.012438, 1, 1.659655
+2, 9893740, 27666080, 0.012808, 0.009866, 1, 1.658618
+3, 9973860, 27666060, 0.021313, 0.007165, 1, 1.657224
+Sum of page rank : 1966528.125000
+Partitioning time (in seconds) : 0.000000
+Time taken (in seconds) : 1.661586

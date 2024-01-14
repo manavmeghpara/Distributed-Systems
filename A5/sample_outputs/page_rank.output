@@ -1,0 +1,11 @@
+Using FLOAT
+World size : 4
+Communication strategy : 1
+Iterations : 20
+rank, num_edges, communication_time
+1, 27666060, 0.257769
+2, 27666060, 0.238578
+3, 27666100, 0.310622
+0, 27666060, 0.280060
+Sum of page rank : 1966528.125000
+Time taken (in seconds) : 0.48949
