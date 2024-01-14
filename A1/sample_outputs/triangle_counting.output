@@ -1,0 +1,10 @@
+Number of workers : 2
+Reading graph
+Created graph
+thread_id, triangle_count, time_taken
+1, 1500, 0.002187
+0, 1500, 0.003124
+Number of triangles : 3000
+Number of unique triangles : 1000
+Time taken (in seconds) : 0.003268
+

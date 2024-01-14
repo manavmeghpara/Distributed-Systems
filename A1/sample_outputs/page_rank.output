@@ -1,0 +1,11 @@
+Using INT
+Number of workers : 4
+Reading graph
+Created graph
+thread_id, time_taken
+0, 0.00792289
+1, 0.00789499
+2, 0.00790215
+3, 0.00789714
+Sum of page rank : 258139862
+Time taken (in seconds) : 0.00809288

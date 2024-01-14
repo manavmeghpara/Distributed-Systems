@@ -1,0 +1,12 @@
+Number of points : 1000
+Number of workers : 4
+thread_id, points_generated, circle_points, time_taken
+0, 250, 193, 6.9141e-06
+1, 250, 198, 5.9605e-06
+3, 250, 207, 5.9605e-06
+2, 250, 190, 1.0014e-05
+Total points generated : 1000
+Total points in circle : 788
+Result : 3.152
+Time taken (in seconds) : 0.00035095
+
